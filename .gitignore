@@ -1,4 +1,7 @@
 poetry.lock
 pyproject.toml
 .replit
-
+.breakpoints
+__pypache__
+venv
+replit.nix
